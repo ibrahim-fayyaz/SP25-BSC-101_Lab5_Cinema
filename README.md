@@ -20,8 +20,4 @@ It allows management of cities, cinemas, screens, and seats, including booking, 
 - `SeatDemo.java` – Demonstrates `Seat` class functionality  
 - `CinemaDemo.java` – Demonstrates full system workflow  
 
-## How to Run
-1. Compile all Java files:  
-```bash
-javac *.java
 
